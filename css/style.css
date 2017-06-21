@@ -1,0 +1,39 @@
+.navbar-brand {
+  color: #000;
+  font-weight: 700; }
+
+.navbar-header a {
+  font-size: 40px; }
+
+.navbar-nav li a {
+  color: gray; }
+
+.nav li a {
+  text-transform: capitalize; }
+
+.navbar-form {
+  float: left; }
+
+.nav-sign {
+  float: left;
+  margin: 5px 0 0 100px;
+  width: 120px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  color: #6088e3;
+  border: 1px solid #6088e3; }
+  .nav-sign:hover {
+    background: #6088e3;
+    color: #fff;
+    transition: 1s; }
+
+.icon {
+  font-family: "iconfont";
+  font-size: 30px; }
+
+.banner {
+  width: 100%; }
+  .banner img {
+    width: 100%;
+    height: auto; }
