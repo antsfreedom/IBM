@@ -1,3 +1,8 @@
+.col-md-3{
+	padding-left:0;
+	padding-right:0;
+}
+
 .navbar-brand{
 	color:#000;
 	font-weight:700;
@@ -44,3 +49,52 @@
 	}
 }
 
+.aside_one{
+	line-height:60px;
+	text-align:center;
+	color:#fff;
+	font-size:22px;
+	background:#ad1625;
+}
+
+.today{
+	line-height:60px;
+}
+
+.aside_week{
+	height:400px;
+	// border:1px solid #000;
+	p{
+		font-size: 26px;
+		padding-top:30px;
+		padding-left:15px;
+	}
+}
+
+.week{
+	background:#dae1f3;
+	height:400px;
+	// padding-bottom:40px;
+	div{
+		width:100%;
+		img{
+			width:100%;
+			height: auto;
+		}
+	}
+	p{
+		padding-top:20px;
+		padding-left:15px;
+		font-size: 20px;
+	}
+	h5{
+		padding-left:15px;
+
+	}
+}
+.inside{
+	background:#264a60;
+	p{
+		color:#fff;
+	}
+}

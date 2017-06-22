@@ -1,3 +1,7 @@
+.col-md-3 {
+  padding-left: 0;
+  padding-right: 0; }
+
 .navbar-brand {
   color: #000;
   font-weight: 700; }
@@ -37,3 +41,40 @@
   .banner img {
     width: 100%;
     height: auto; }
+
+.aside_one {
+  line-height: 60px;
+  text-align: center;
+  color: #fff;
+  font-size: 22px;
+  background: #ad1625; }
+
+.today {
+  line-height: 60px; }
+
+.aside_week {
+  height: 400px; }
+  .aside_week p {
+    font-size: 26px;
+    padding-top: 30px;
+    padding-left: 15px; }
+
+.week {
+  background: #dae1f3;
+  height: 400px; }
+  .week div {
+    width: 100%; }
+    .week div img {
+      width: 100%;
+      height: auto; }
+  .week p {
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: 20px; }
+  .week h5 {
+    padding-left: 15px; }
+
+.inside {
+  background: #264a60; }
+  .inside p {
+    color: #fff; }
